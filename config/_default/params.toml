@@ -282,9 +282,4 @@ plugins_js  = []
 ############################
 [icon.pack]
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
-  
-  content:
-  form:
-    provider: netlify
-    netlify:
-      captcha: true
+ 
