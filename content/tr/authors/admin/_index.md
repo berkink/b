@@ -33,7 +33,7 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:berkinkarasakal@outlook.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -56,5 +56,5 @@ email: ""
 highlight_name: false
 ---
 
-Denizli'de doğdum. Güzelyurt, KKTC'de yaşıyor ve okuyorum. Şuan Orta Doğu Teknik Üniversitesi Kuzey Kıbrıs Kampüsü'nde petrol ve doğalgaz mühendisliği programında lisans eğitimi alıyorum.
+Denizli'de doğdum. Güzelyurt, KKTC'de yaşıyorum ve üniversite eğitimime orada devam ediyorum. Orta Doğu Teknik Üniversitesi Kuzey Kıbrıs Kampüsü'nde petrol ve doğalgaz mühendisliği programında lisans eğitimi alıyorum.
 
