@@ -59,7 +59,5 @@ email: ""
 highlight_name: false
 ---
 
-I am currently an undergraduate student of petroleum and natural gas engineering program at METU NCC.
+I am currently an undergraduate student in petroleum and natural gas engineering program at METU NCC.
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
