@@ -59,5 +59,5 @@ email: ""
 highlight_name: false
 ---
 
-I am currently an undergraduate student in petroleum and natural gas engineering program at METU NCC.
+I was born in Denizli, Turkey. I am living in Guzelyurt, TRNC. I am currently an undergraduate student in petroleum and natural gas engineering program at METU NCC.
 
