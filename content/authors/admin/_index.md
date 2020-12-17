@@ -28,10 +28,10 @@ education:
   courses:
   - course: BSc in Petroleum & Natural Gas Engineering
     institution: METU NCC
-    year: 2020-...
+    year: 
   - course: English Preparatory Program
     institution: METU NCC
-    year: 2019-2020
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
